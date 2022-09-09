@@ -1,3 +1,3 @@
-# CDN---INDIeOpen
-Content Delivery Network - INDIeOpen
+# CDN - INDIeOpen
+INDIeOpen Architecture
 <img src="INDIeOpenArchitecture.jpg">

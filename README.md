@@ -1,3 +1,4 @@
 # CDN - INDIeOpen
-INDIeOpen Architecture
+## INDIeOpen Architecture
+
 <img src="INDIeOpenArchitecture.jpg">

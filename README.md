@@ -6,6 +6,10 @@ This is the repository for one of the components of the INDIeOpen architecture, 
 
 <img src="INDIeOpenArchitecture.jpg">
 
+## Deployment
+
+The deployment of this Content Delivery Network (CDN) depends on the selected cloud computing provider. Each cloud computing provider provides its own deployment manual. In the case of Microsoft’s Azure one option is Azure Content Delivery Network (https://azure.microsoft.com/es-es/products/cdn/). You can find more information at the following URL https://docs.microsoft.com/es-es/azure/frontdoor/.
+
 ## Creators and contributors
 
 CDN files have been created at the **Digital Content Creation Center** (CPCD), in the Universidad Politécnica de Cartagena.
